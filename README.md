@@ -1,3 +1,3 @@
 # DEMO
 
-Im learning gitub and git
+Im learning gitub and git!
